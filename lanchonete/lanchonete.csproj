@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{8F296837-F443-405B-A544-D9AACCBECF22}</ProjectGuid>
+    <ProjectGuid>{FADAFB60-1B62-4352-BCDF-CEC9D18EE91F}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>lanchonete</RootNamespace>
